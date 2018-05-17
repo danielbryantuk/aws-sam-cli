@@ -218,7 +218,7 @@ You can also try an installing aws-sam-cli without `--user`
 .. code:: bash
 
     # Uninstall aws-sam-cli from the --user path
-    pip uninstall --user aws-sam-cli
+    pip uninstall aws-sam-cli
 
     pip install aws-sam-cli
 
